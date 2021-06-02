@@ -1,7 +1,7 @@
 dbcon={
 	'user':'postgres',
-	'password':"Nitesh@0810",
+	'password':"Password_of_database",
 	'host':"localhost",
-	'database':'todo',
+	'database':'name_of_database',
 	'port':"5432"
 }
